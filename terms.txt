@@ -1,0 +1,2 @@
+tracked files: Files that were in the last snapshot, as well as any newly staged files. Can be modified, unmodified, or stages. Files that Git knows.
+untracked files: any files in working dir that were not in your last snapshot and are not in your staging area.

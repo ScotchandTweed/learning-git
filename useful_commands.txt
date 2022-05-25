@@ -1,0 +1,14 @@
+==========================================================
+~/.gitconfig holds --global values
+Can be overwritten by a local file in .git/config
+Source https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+=======================================================
+Change default branch name. This is good to move from Master to Main branch terminology
+git config --global init.defaultBranch main
+Source https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+=======================================================
+Check status of files in git project. (add -s for short version)
+git status -s
+Source: https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
+=======================================================
+ 
